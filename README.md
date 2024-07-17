@@ -1,2 +1,4 @@
 # Quadcopter-Autonomous-Landing
-This project involves designing an intelligent landing system for an unmanned aerial vehicle (UAV) that can land on a slow-moving target. It involves detecting a slow moving landing marker using vision based systems. CoppeliaSim and Python have been used in this project.
+
+This project designs an autonomous landing system for a UAV on a slow-moving target, handling target search, heading angle estimation, target state estimation, and velocity control without human intervention or communication with the landing marker. A simulation was developed using _CoppeliaSim_ and _Python_. The UAV and landing marker operate independently. This approach ensures the UAV can land accurately even on a moving target.
+
