@@ -8,7 +8,8 @@ Open your terminal and install the following libraries :
 
 `pip install cbor2 numpy opencv-python scikit-image pykalman`
 
-Now, open the test.py file and run it. The simulation should start running. 
+Ensure that both the _python_ code folder and the _CoppeliaSim_ folder are in the SAME folder. <br>
+Now, open the test.py file and the UAV landing model.ttt file. Run the test.py file. The simulation should start running automatically. 
 
 Pictures from the simulation - 
 
